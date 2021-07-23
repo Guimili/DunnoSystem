@@ -1,0 +1,19 @@
+{
+  "name": "dunnoapi",
+  "version": "1.0.0",
+  "description": "RestAPI do sistema DunnoSystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guimili/DunnoSystem.git"
+  },
+  "author": "Léo Borba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guimili/DunnoSystem/issues"
+  },
+  "homepage": "https://github.com/Guimili/DunnoSystem#readme"
+}
