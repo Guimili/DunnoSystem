@@ -1,0 +1,30 @@
+{
+    "users": {
+        "data": [
+            {
+                "id": 1,
+                "login": "lirolio@email.com",
+                "password": "foo",
+                "type": "admin"
+            },
+            {
+                "id": 2,
+                "login": "sbrit@email.com",
+                "password": "corno",
+                "type": "dev"
+            },
+            {
+                "id": 3,
+                "login": "lusi@email.com",
+                "password": "gasoso",
+                "type": "gasoso"
+            },
+            {
+                "id": 4,
+                "login": "amana@email.com",
+                "password": "tarada",
+                "type": "socia"
+            }
+        ]
+    }
+}
