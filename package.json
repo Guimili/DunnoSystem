@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Guimili/DunnoSystem.git"
+    "url": "git+https://github.com/Guimili/DunnoSystemAPI.git"
   },
   "author": "Léo Borba",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Guimili/DunnoSystem/issues"
+    "url": "https://github.com/Guimili/DunnoSystemAPI/issues"
   },
-  "homepage": "https://github.com/Guimili/DunnoSystem#readme"
+  "homepage": "https://github.com/Guimili/DunnoSystemAPI#readme"
 }
